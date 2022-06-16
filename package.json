@@ -20,7 +20,7 @@
   ],
   "devDependencies": {
     "@types/pixi.js": "^5.0.0",
-    "electron": "^9.1.0",
+    "electron": "^15.5.5",
     "electron-reload": "^1.5.0",
     "tslint": "^6.1.2",
     "tslint-config-prettier": "^1.18.0",
